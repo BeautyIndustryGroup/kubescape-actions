@@ -2,4 +2,4 @@ name: kubescape-action
 description: Run kubescape via docker container
 runs:
   using: docker
-  image: docker://quay.io/kubescape/kubescape
+  image: Dockerfile
